@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KM41vFgF4F+xYiatwbEjnEy8m1McO72lfI6mdw5dDu5Ib4QVyj07uhxvztTDnDRvW99ZPXx0bBK2cx14Jm85Zg==",
+  "dgSpecHash": "8nylZUkrS7adO1lvy8pL8AZtr5U7DWfZxCxMJ4Yku0iGO2a5h2Ui+6sh1tTGBjPN1LLoEw0f5U/UGEbv9PevVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elnara\\source\\repos\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj",
+  "projectFilePath": "C:\\Users\\Elnara\\Desktop\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elnara\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Elnara\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

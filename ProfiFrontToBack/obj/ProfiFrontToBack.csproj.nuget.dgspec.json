@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elnara\\source\\repos\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj": {}
+    "C:\\Users\\Elnara\\Desktop\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elnara\\source\\repos\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj": {
+    "C:\\Users\\Elnara\\Desktop\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elnara\\source\\repos\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj",
+        "projectUniqueName": "C:\\Users\\Elnara\\Desktop\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj",
         "projectName": "ProfiFrontToBack",
-        "projectPath": "C:\\Users\\Elnara\\source\\repos\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj",
+        "projectPath": "C:\\Users\\Elnara\\Desktop\\ProfiFrontToBack\\ProfiFrontToBack\\ProfiFrontToBack.csproj",
         "packagesPath": "C:\\Users\\Elnara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elnara\\source\\repos\\ProfiFrontToBack\\ProfiFrontToBack\\obj\\",
+        "outputPath": "C:\\Users\\Elnara\\Desktop\\ProfiFrontToBack\\ProfiFrontToBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
